@@ -11,3 +11,5 @@ For a domain name "approvedpattesting.co.uk"
         "operator": "contains",
         "value": "approvedpattesting.co.uk"
     }
+
+Modify the content of "process.js" to achieve this.
