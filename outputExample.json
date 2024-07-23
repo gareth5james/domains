@@ -3,7 +3,20 @@
     "not": false,
     "version": 2,
     "rules": [
-
+        {
+            "id": "emailAddress",
+            "field": "emailAddress",
+            "type": "string",
+            "operator": "contains",
+            "value": "approvedpattesting.co.uk"
+        },
+        {
+            "id": "emailAddress",
+            "field": "emailAddress",
+            "type": "string",
+            "operator": "contains",
+            "value": "archerssteelworkandcladding.co.uk"
+        }  
     ],
     "valid": true
 }
