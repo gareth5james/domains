@@ -21,6 +21,6 @@ For a domain name "approvedpattesting.co.uk"
     "valid": true
 }
 
-Every email that contains .co.uk in the list should be displayed like the above in the final output.json.
+Every email that contains ".co.uk" in the list should be displayed like the above in the final "output.json"
 
-Modify the content of "process.js" to achieve the above.
+Modify the content of "process.js" to achieve this.
