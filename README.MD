@@ -11,4 +11,3 @@ For a domain name "approvedpattesting.co.uk"
         "operator": "contains",
         "value": "approvedpattesting.co.uk"
     }
-
