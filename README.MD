@@ -3,6 +3,7 @@ Take a list of domain names from "list.txt" and add those containing ".co.uk" an
 For the required format, see "outputExample.json" as a reference. Each domain added should be an item in the "rules" list as follows;
 
 For a domain name "approvedpattesting.co.uk"
+
 {
     "condition": "OR",
     "not": false,
