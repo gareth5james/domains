@@ -1,4 +1,4 @@
-# Tech Test
+# Data Tech Test
 We have a list of domain names in the file "list.txt". The domain names end in various ways e.g. .com, .eu, .co.uk etc.
 We also have our "input.js" file that contains a JSON.
 ## Your Task
